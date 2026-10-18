@@ -5,16 +5,7 @@
   --accent: #a4553a;
   --card: #ffffff;
   --line: #e7e0d8;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #1c1917;
-    --fg: #f1ece6;
-    --muted: #a99f95;
-    --accent: #e08a6b;
-    --card: #26221f;
-    --line: #3a342f;
-  }
+  color-scheme: light;
 }
 * { box-sizing: border-box; }
 body {
