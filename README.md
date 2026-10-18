@@ -1,8 +1,5 @@
-# Mary's Website
+# Mary's website
 
-Frontend for Mary's website.
+Placeholder site, built to test making and hosting a website from a phone.
 
-## Workflow
-
-- Work happens on branches; changes land on `main` through pull requests.
-- Each pull request gets a preview deploy link once hosting is connected.
+Hosted with GitHub Pages: Settings → Pages → Deploy from a branch → `main` / `(root)`.
